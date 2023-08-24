@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.my_profile{
+    width: 40%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 100px;
+}
+.my_profile p{
+    margin-top: 10px;
+    padding: 5px;
+}
+.prof_btn{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 10px;
+}
+.prof_btn a{
+    padding: 2px;
+    text-decoration: none;
+}
